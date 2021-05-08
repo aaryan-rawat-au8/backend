@@ -1,0 +1,16 @@
+Running:
+
+Install all dependencies by runing the command 'npm i' in terminal.
+Open your mongodb.
+Create a folder 'upload' in the project folder.
+
+After this run your npm by writing 'npm start' on terminal.
+Then open chrome and write http://localhost:2000/signup to sign up.
+
+I have used multer for file uploading,
+Used express for routing,
+Used hbs templet engine for showing the data on browser,
+Used MongoDB database to upload the details,
+Used session and cookie to create a session of user.
+I have used nodemon for continuously watching the index.js file.
+I have used path for provide a valid path to merge a file which i have used like upload. 
